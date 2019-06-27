@@ -1,5 +1,5 @@
 ---
-title: "Helloworld"
+title: "HelloWorld"
 author: "Maya"
 date: "6/26/2019"
 output: pdf_document
